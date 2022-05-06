@@ -8,3 +8,6 @@ print (n.isalpha())
 
 #num e letras
 print (n.isalpha())
+
+#só letras maisculas?
+print (n.isupper())
